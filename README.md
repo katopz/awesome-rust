@@ -13,3 +13,7 @@ Rust collection FTW
 
 ## WASM
 - `Binaryen` is a compiler and toolchain infrastructure library for WebAssembly: https://github.com/WebAssembly/binaryen
+
+## Deploy
+- `Cloudflare Worker`: https://github.com/cloudflare/workers-rs
+- `Fastly Compute@Edge`: https://docs.fastly.com/products/compute-at-edge
