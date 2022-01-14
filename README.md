@@ -17,3 +17,9 @@ Rust collection FTW
 ## Deploy
 - `Cloudflare Worker`: https://github.com/cloudflare/workers-rs
 - `Fastly Compute@Edge`: https://docs.fastly.com/products/compute-at-edge
+
+## Frontend
+- Yew Stack: https://yew.rs/
+  > Yew is a modern Rust framework for creating multi-threaded front-end web apps using WebAssembly.
+- MoonZoon: https://github.com/MoonZoon/MoonZoon
+  > Rust Fullstack Framework.
