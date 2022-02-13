@@ -1,6 +1,9 @@
 # awesome-rust
 Rust collection FTW
 
+## Good read
+- https://fasterthanli.me/tags/rust
+
 ## Courses
 - Ultimate Rust Crash Course: https://github.com/CleanCut/ultimate_rust_crash_course
 
@@ -10,9 +13,6 @@ Rust collection FTW
 
 ## Tools
 - VSCode `rust-analyzer`: https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer
-
-## WASM
-- `Binaryen` is a compiler and toolchain infrastructure library for WebAssembly: https://github.com/WebAssembly/binaryen
 
 ## Deploy
 - `Cloudflare Worker`: https://github.com/cloudflare/workers-rs
