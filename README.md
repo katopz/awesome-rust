@@ -13,6 +13,8 @@ Rust collection FTW
 
 ## Tools
 - VSCode `rust-analyzer`: https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer
+- `Clippy` : https://github.com/rust-lang/rust-clippy
+  > A collection of lints to catch common mistakes and improve your Rust code
 
 ## Deploy
 - `Cloudflare Worker`: https://github.com/cloudflare/workers-rs
