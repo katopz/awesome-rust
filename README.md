@@ -26,10 +26,6 @@ Rust collection FTW
 - MoonZoon: https://github.com/MoonZoon/MoonZoon
   > Rust Fullstack Framework.
 
-## Backend
-- Rocket: https://rocket.rs/
-  > Rocket is a web framework for Rust that makes it simple to write fast, secure web applications without sacrificing flexibility, usability, or type safety.
-
 ## Framework
 - Rust web framework comparison: https://github.com/flosse/rust-web-framework-comparison
 
