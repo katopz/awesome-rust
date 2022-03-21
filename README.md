@@ -33,4 +33,7 @@ Rust collection FTW
 
 ## WebAssembly
 - Rust 🦀 and WebAssembly 🕸: https://rustwasm.github.io/docs/book/introduction.html
-- Rust 🦀 and Solana: https://github.com/avareum/awesome-solana/blob/main/README.md
+
+## Awesome
+- WebAssembly: https://github.com/katopz/awesome-wasm
+- Solana: https://github.com/avareum/awesome-solana
