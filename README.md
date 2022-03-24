@@ -19,12 +19,14 @@ Rust collection FTW
   > A collection of lints to catch common mistakes and improve your Rust code
 
 ## Develop
-- `cargo watch -x run`: https://watchexec.github.io/#cargo-watch
-  > Watch for code change and run any command
+- `cargo install cargo-watch`: https://github.com/watchexec/cargo-watch
+  > `cargo watch -x run`: Watch for code change and run any command
+- `cargo install cargo-modules`: https://github.com/regexident/cargo-modules
+  > `cargo modules generate tree`: A cargo plugin for showing an overview of a crate's modules.
 
 ## Test
-- `cargo nextest run`: https://nexte.st/
-  > Up to 60% faster than cargo test
+-  `cargo install cargo-nextest`: https://nexte.st/
+  > `cargo nextest run`: Up to 60% faster than cargo test
 
 ## Deploy
 - `Cloudflare Worker`: https://github.com/cloudflare/workers-rs
