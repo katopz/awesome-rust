@@ -18,9 +18,18 @@ Rust collection FTW
 - `Clippy` : https://github.com/rust-lang/rust-clippy
   > A collection of lints to catch common mistakes and improve your Rust code
 
+## Develop
+- `cargo watch -x run`: https://watchexec.github.io/#cargo-watch
+  > Watch for code change and run any command
+
+## Test
+- `cargo nextest run`: https://nexte.st/
+  > Up to 60% faster than cargo test
+
 ## Deploy
 - `Cloudflare Worker`: https://github.com/cloudflare/workers-rs
 - `Fastly Compute@Edge`: https://docs.fastly.com/products/compute-at-edge
+- `Google CloudRun`: https://github.com/katopz/hello-rust-cloudrun
 
 ## Frontend
 - Yew Stack: https://yew.rs/
