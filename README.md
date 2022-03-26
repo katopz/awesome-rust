@@ -8,6 +8,7 @@ Rust collection FTW
 
 ## Courses
 - Ultimate Rust Crash Course: https://github.com/CleanCut/ultimate_rust_crash_course
+- Ultimate Rust 2: Intermediate Concepts: https://github.com/CleanCut/ultimate_rust2
 
 ## Video
 - The Rust Lang Book: https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
