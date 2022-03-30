@@ -5,6 +5,7 @@ Rust collection FTW
 - https://fasterthanli.me/tags/rust
 - https://github.com/lpxxn/rust-design-pattern
 - https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html
+- https://doc.rust-lang.org/stable/book/
 
 ## Courses
 - Ultimate Rust Crash Course: https://github.com/CleanCut/ultimate_rust_crash_course
