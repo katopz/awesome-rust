@@ -44,6 +44,8 @@ Rust collection FTW
   > Yew is a modern Rust framework for creating multi-threaded front-end web apps using WebAssembly.
 - MoonZoon: https://github.com/MoonZoon/MoonZoon
   > Rust Fullstack Framework.
+- Web3 Solana, Near: https://github.com/russellwmy/web3-rs
+- Web3 ETH: https://github.com/tomusdrw/rust-web3
 
 ## Framework
 - Rust web framework comparison: https://github.com/flosse/rust-web-framework-comparison
