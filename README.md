@@ -31,7 +31,7 @@ Rust collection FTW
   > `cargo modules generate tree`: A cargo plugin for showing an overview of a crate's modules.
 
 ## Test
--  `cargo install cargo-nextest`: https://nexte.st/
+- `cargo install cargo-nextest`: https://nexte.st/
   > `cargo nextest run`: Up to 60% faster than cargo test
 
 ## Deploy
