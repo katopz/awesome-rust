@@ -8,6 +8,8 @@ Rust collection FTW
 - https://doc.rust-lang.org/stable/book/
 - https://blog.cloudflare.com/pin-and-unpin-in-rust/
   > Pin, Unpin, and why Rust needs them
+- https://doc.rust-lang.org/rust-by-example/
+  > Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries.
 
 ## Courses
 - Ultimate Rust Crash Course: https://github.com/CleanCut/ultimate_rust_crash_course
