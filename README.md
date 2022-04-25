@@ -53,6 +53,9 @@ Rust collection FTW
 ## Framework
 - Rust web framework comparison: https://github.com/flosse/rust-web-framework-comparison
 
+## Tools
+- https://fleet.rs/
+
 ## WebAssembly
 - Rust 🦀 and WebAssembly 🕸: https://rustwasm.github.io/docs/book/introduction.html
 
