@@ -16,6 +16,7 @@ Rust collection FTW
 - Ultimate Rust 2: Intermediate Concepts: https://github.com/CleanCut/ultimate_rust2
 - Rust exercises: https://github.com/rust-lang/rustlings
 - Rust Adventure: https://www.rustadventure.rs/
+- Rust for TypeScript developers: https://github.com/arendjr/rust-for-ts-devs
 
 ## Video
 - The Rust Lang Book: https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
