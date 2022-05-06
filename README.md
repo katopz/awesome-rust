@@ -57,6 +57,15 @@ Rust collection FTW
 ## Tools
 - https://fleet.rs/
 
+## Projects
+- Building a crawler in Rust: Scraping and Parsing HTML: https://kerkour.com/rust-crawler-scraping-and-parsing-html
+
+## Books
+- Zero To Production In Rust: https://www.zero2prod.com/
+  > Zero To Production is the ideal starting point for your journey as a Rust backend developer. You will learn by doing: you will build a fully functional email newsletter API, starting from scratch.
+- Black Hat Rust: https://kerkour.com/black-hat-rust
+  > While the Rust Book does an excellent job teaching What is Rust, a book about Why and How to Rust was missing.
+
 ## WebAssembly
 - Rust 🦀 and WebAssembly 🕸: https://rustwasm.github.io/docs/book/introduction.html
 
