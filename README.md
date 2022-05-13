@@ -20,6 +20,7 @@ Rust collection FTW
 - Rust Adventure: https://www.rustadventure.rs/
 - Rust for TypeScript developers: https://github.com/arendjr/rust-for-ts-devs
 - 24 days from node.js to Rust: https://vino.dev/blog/node-to-rust-day-1-rustup/#day-1-installing-rust-with-rustup
+- Tour of Rust: https://github.com/richardanaya/tour_of_rust
 
 ## Video
 - The Rust Lang Book: https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
