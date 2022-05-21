@@ -78,3 +78,4 @@ Rust collection FTW
 ## Awesome
 - WebAssembly: https://github.com/katopz/awesome-wasm
 - Solana: https://github.com/avareum/awesome-solana
+- Yew: https://github.com/jetli/awesome-yew
