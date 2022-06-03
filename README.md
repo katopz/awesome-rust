@@ -6,14 +6,12 @@ Rust collection FTW
 - https://github.com/lpxxn/rust-design-pattern
 - https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html
 - https://doc.rust-lang.org/stable/book/
-- https://blog.cloudflare.com/pin-and-unpin-in-rust/
-  > Pin, Unpin, and why Rust needs them
-- https://doc.rust-lang.org/rust-by-example/
+- Pin, Unpin, and why Rust needs them: https://blog.cloudflare.com/pin-and-unpin-in-rust/
+- Rust by Example: https://doc.rust-lang.org/rust-by-example/
   > Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries.
-- https://github.com/google/rust-design-faq
+- C++ to Rust: https://github.com/google/rust-design-faq
   > How to adapt your C++ thinking to the new facilities available in Rust.
-- https://itsallaboutthebit.com/arc-mutex/
-  > Arc and Mutex in Rust
+- Arc and Mutex in Rust: https://itsallaboutthebit.com/arc-mutex/
 - Simple rust interview questions: https://flakm.github.io/posts/rust_interview_questions/
 
 ## WTF
