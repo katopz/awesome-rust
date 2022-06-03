@@ -21,7 +21,6 @@ Rust collection FTW
 ## Courses
 - Ultimate Rust Crash Course: https://github.com/CleanCut/ultimate_rust_crash_course
 - Ultimate Rust 2: Intermediate Concepts: https://github.com/CleanCut/ultimate_rust2
-- Rust exercises: https://github.com/rust-lang/rustlings
 - Rust Adventure: https://www.rustadventure.rs/
 - Rust for TypeScript developers: https://github.com/arendjr/rust-for-ts-devs
 - 24 days from node.js to Rust: https://vino.dev/blog/node-to-rust-day-1-rustup/#day-1-installing-rust-with-rustup
@@ -78,7 +77,11 @@ Rust collection FTW
 - Black Hat Rust: https://kerkour.com/black-hat-rust
   > While the Rust Book does an excellent job teaching What is Rust, a book about Why and How to Rust was missing.
 
-## Algorithyms
+## Exercises
+- Rust exercises: https://github.com/rust-lang/rustlings
+- Exercism exercises in Rust: https://exercism.org/tracks/rust
+
+## Algorithms
 - The Algorithms - Rust: https://github.com/TheAlgorithms/Rust
 
 ## WebAssembly
