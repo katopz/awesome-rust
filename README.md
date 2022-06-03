@@ -12,6 +12,8 @@ Rust collection FTW
   > Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries.
 - https://github.com/google/rust-design-faq
   > How to adapt your C++ thinking to the new facilities available in Rust.
+- https://itsallaboutthebit.com/arc-mutex/
+ > Arc and Mutex in Rust
 
 ## Courses
 - Ultimate Rust Crash Course: https://github.com/CleanCut/ultimate_rust_crash_course
