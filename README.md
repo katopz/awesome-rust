@@ -14,6 +14,8 @@ Rust collection FTW
   > How to adapt your C++ thinking to the new facilities available in Rust.
 - https://itsallaboutthebit.com/arc-mutex/
  > Arc and Mutex in Rust
+- A Rust match made in hell: https://fasterthanli.me/articles/a-rust-match-made-in-hell
+- The curse of strong typing: https://fasterthanli.me/articles/the-curse-of-strong-typing
 
 ## Courses
 - Ultimate Rust Crash Course: https://github.com/CleanCut/ultimate_rust_crash_course
