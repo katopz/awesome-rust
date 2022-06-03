@@ -31,7 +31,7 @@ Rust collection FTW
 - Crust of Rust, Jon Gjengset: https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ
 - Rust in Motion: https://github.com/integer32llc/rust-in-motion-videos
 
-## Tools
+## Editors
 - VSCode `rust-analyzer`: https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer
 - `Clippy` : https://github.com/rust-lang/rust-clippy
   > A collection of lints to catch common mistakes and improve your Rust code
@@ -51,6 +51,7 @@ Rust collection FTW
 - `Cloudflare Worker`: https://github.com/cloudflare/workers-rs
 - `Fastly Compute@Edge`: https://docs.fastly.com/products/compute-at-edge
 - `Google CloudRun`: https://github.com/katopz/hello-rust-cloudrun
+- `Github Actions`: https://ectobit.com/blog/speed-up-github-actions-rust-pipelines/
 
 ## Frontend
 - Yew Stack: https://yew.rs/
@@ -63,9 +64,6 @@ Rust collection FTW
 ## Framework
 - Rust web framework comparison: https://github.com/flosse/rust-web-framework-comparison
 
-## Tools
-- https://fleet.rs/
-
 ## Projects
 - Building a crawler in Rust: Scraping and Parsing HTML: https://kerkour.com/rust-crawler-scraping-and-parsing-html
 
@@ -77,6 +75,10 @@ Rust collection FTW
 
 ## WebAssembly
 - Rust 🦀 and WebAssembly 🕸: https://rustwasm.github.io/docs/book/introduction.html
+
+## Additional Tools
+- fleet: https://fleet.rs/
+  > fleet makes your rust builds up to 5x faster.
 
 ## Awesome
 - WebAssembly: https://github.com/katopz/awesome-wasm
