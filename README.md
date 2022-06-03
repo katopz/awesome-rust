@@ -14,6 +14,7 @@ Rust collection FTW
   > How to adapt your C++ thinking to the new facilities available in Rust.
 - https://itsallaboutthebit.com/arc-mutex/
   > Arc and Mutex in Rust
+- Simple rust interview questions: https://flakm.github.io/posts/rust_interview_questions/
 
 ## WTF
 - A Rust match made in hell: https://fasterthanli.me/articles/a-rust-match-made-in-hell
