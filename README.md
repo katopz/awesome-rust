@@ -78,6 +78,9 @@ Rust collection FTW
 - Black Hat Rust: https://kerkour.com/black-hat-rust
   > While the Rust Book does an excellent job teaching What is Rust, a book about Why and How to Rust was missing.
 
+## Algorithyms
+- The Algorithms - Rust: https://github.com/TheAlgorithms/Rust
+
 ## WebAssembly
 - Rust 🦀 and WebAssembly 🕸: https://rustwasm.github.io/docs/book/introduction.html
 
