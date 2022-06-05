@@ -13,6 +13,7 @@ Rust collection FTW
   > How to adapt your C++ thinking to the new facilities available in Rust.
 - Arc and Mutex in Rust: https://itsallaboutthebit.com/arc-mutex/
 - Simple rust interview questions: https://flakm.github.io/posts/rust_interview_questions/
+- A Journey into Iterators: https://hoverbear.org/blog/a-journey-into-iterators/
 
 ## WTF
 - A Rust match made in hell: https://fasterthanli.me/articles/a-rust-match-made-in-hell
