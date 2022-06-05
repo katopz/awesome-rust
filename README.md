@@ -80,6 +80,8 @@ Rust collection FTW
 ## Exercises
 - Rust exercises: https://github.com/rust-lang/rustlings
 - Exercism exercises in Rust: https://exercism.org/tracks/rust
+- Rust-examples: https://github.com/eliovir/rust-examples
+  > Rust-examples is a repository to gather example codes from tutorial and other documentations of Rust into files, ready to compile.
 
 ## Algorithms
 - The Algorithms - Rust: https://github.com/TheAlgorithms/Rust
