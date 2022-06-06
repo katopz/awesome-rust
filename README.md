@@ -26,6 +26,7 @@ Rust collection FTW
 - Rust for TypeScript developers: https://github.com/arendjr/rust-for-ts-devs
 - 24 days from node.js to Rust: https://vino.dev/blog/node-to-rust-day-1-rustup/#day-1-installing-rust-with-rustup
 - Tour of Rust: https://github.com/richardanaya/tour_of_rust
+- Easy Rust: https://dhghomon.github.io/easy_rust/Chapter_1.html
 
 ## Randoms
 - Christopher Biscardi: https://www.christopherbiscardi.com/rust
@@ -35,6 +36,7 @@ Rust collection FTW
 - Let's Get Rusty: https://www.youtube.com/channel/UCSp-OaMpsO8K0KkOqyBl7_w
 - Crust of Rust, Jon Gjengset: https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ
 - Rust in Motion: https://github.com/integer32llc/rust-in-motion-videos
+- Easy Rust: bite-sized Rust tutorials: https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
 
 ## Editors
 - VSCode `rust-analyzer`: https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer
