@@ -27,6 +27,7 @@ Rust collection FTW
 - 24 days from node.js to Rust: https://vino.dev/blog/node-to-rust-day-1-rustup/#day-1-installing-rust-with-rustup
 - Tour of Rust: https://github.com/richardanaya/tour_of_rust
 - Easy Rust: https://dhghomon.github.io/easy_rust/Chapter_1.html
+- Rust 101: https://www.ralfj.de/projects/rust-101/
 
 ## Randoms
 - Christopher Biscardi: https://www.christopherbiscardi.com/rust
