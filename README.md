@@ -55,6 +55,9 @@ Rust collection FTW
 - `cargo install cargo-nextest`: https://nexte.st/
   > `cargo nextest run`: Up to 60% faster than cargo test
 
+## Optimize
+- Minimizing Rust Binary Size: https://github.com/johnthagen/min-sized-rust
+
 ## Deploy
 - `Cloudflare Worker`: https://github.com/cloudflare/workers-rs
 - `Fastly Compute@Edge`: https://docs.fastly.com/products/compute-at-edge
