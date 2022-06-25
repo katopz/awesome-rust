@@ -56,6 +56,7 @@ Rust collection FTW
   > `cargo nextest run`: Up to 60% faster than cargo test
 
 ## Optimize
+- The Rust Performance Book: https://nnethercote.github.io/perf-book
 - Minimizing Rust Binary Size: https://github.com/johnthagen/min-sized-rust
 
 ## Deploy
