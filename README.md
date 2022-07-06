@@ -74,6 +74,9 @@ Rust collection FTW
 - Web3 Solana, Near: https://github.com/russellwmy/web3-rs
 - Web3 ETH: https://github.com/tomusdrw/rust-web3
 
+## Backend
+- https://github.com/security-union/yew-actix-template
+
 ## Framework
 - Rust web framework comparison: https://github.com/flosse/rust-web-framework-comparison
 
