@@ -40,6 +40,7 @@ Rust collection FTW
 - Rust in Motion: https://github.com/integer32llc/rust-in-motion-videos
 - Easy Rust: bite-sized Rust tutorials: https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
 - Pascal Precht: https://www.youtube.com/c/PascalPrecht
+- Visualizing memory layout of Rust's data types: https://www.youtube.com/watch?v=rDoqT-a6UFg
 
 ## Editors
 - VSCode `rust-analyzer`: https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer
