@@ -1,14 +1,18 @@
 # awesome-rust
 Rust collection FTW
 
+## Docs
+- The Rust Programming Language: https://doc.rust-lang.org/stable/book/
+- ⭐️ Easy Rust: https://dhghomon.github.io/easy_rust/Chapter_1.html
+- ⭐️ Rust by Example: https://doc.rust-lang.org/rust-by-example/
+  > Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries.
+- The Rust Reference: https://doc.rust-lang.org/reference/introduction.html
+
 ## Good read
 - https://fasterthanli.me/tags/rust
 - https://github.com/lpxxn/rust-design-pattern
 - https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html
-- https://doc.rust-lang.org/stable/book/
 - Pin, Unpin, and why Rust needs them: https://blog.cloudflare.com/pin-and-unpin-in-rust/
-- Rust by Example: https://doc.rust-lang.org/rust-by-example/
-  > Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries.
 - C++ to Rust: https://github.com/google/rust-design-faq
   > How to adapt your C++ thinking to the new facilities available in Rust.
 - Arc and Mutex in Rust: https://itsallaboutthebit.com/arc-mutex/
@@ -27,7 +31,6 @@ Rust collection FTW
 - Rust for TypeScript developers: https://github.com/arendjr/rust-for-ts-devs
 - 24 days from node.js to Rust: https://vino.dev/blog/node-to-rust-day-1-rustup/#day-1-installing-rust-with-rustup
 - Tour of Rust: https://github.com/richardanaya/tour_of_rust
-- Easy Rust: https://dhghomon.github.io/easy_rust/Chapter_1.html
 - Rust 101: https://www.ralfj.de/projects/rust-101/
 
 ## Randoms
