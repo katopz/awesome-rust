@@ -19,6 +19,7 @@ Rust collection FTW
 - Simple rust interview questions: https://flakm.github.io/posts/rust_interview_questions/
 - A Journey into Iterators: https://hoverbear.org/blog/a-journey-into-iterators/
 - A half-hour to learn Rust: https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+- Blue Team Rust: What is "Memory Safety", Really?: https://tiemoko.com/blog/blue-team-rust/
 
 ## WTF
 - A Rust match made in hell: https://fasterthanli.me/articles/a-rust-match-made-in-hell
@@ -50,7 +51,6 @@ Rust collection FTW
 - VSCode `rust-analyzer`: https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer
 - `Clippy` : https://github.com/rust-lang/rust-clippy
   > A collection of lints to catch common mistakes and improve your Rust code
-- Rust Playground: [https://play.rust-lang.org/](https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&code=fn%20main()%20%7B%0A%20%20%20%20println!(%22Welcome%20to%20the%20playground!%20You%20can%20modify%20the%20code%20in%20here.%22)%3B%0A%7D%0A)
 
 ## Develop
 - `cargo install cargo-watch`: https://github.com/watchexec/cargo-watch
@@ -108,10 +108,14 @@ Rust collection FTW
 ## Algorithms
 - The Algorithms - Rust: https://github.com/TheAlgorithms/Rust
 
+## Security
+- High Assurance Rust: https://highassurance.rs/landing.html
+
 ## WebAssembly
 - Rust 🦀 and WebAssembly 🕸: https://rustwasm.github.io/docs/book/introduction.html
 
-## Additional Tools
+## Tools
+- Rust Playground: https://play.rust-lang.org/
 - fleet: https://fleet.rs/
   > fleet makes your rust builds up to 5x faster.
 
