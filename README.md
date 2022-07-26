@@ -20,6 +20,7 @@ Rust collection FTW
 - A Journey into Iterators: https://hoverbear.org/blog/a-journey-into-iterators/
 - A half-hour to learn Rust: https://fasterthanli.me/articles/a-half-hour-to-learn-rust
 - Blue Team Rust: What is "Memory Safety", Really?: https://tiemoko.com/blog/blue-team-rust/
+- pretzelhammer's Rust blog: https://github.com/pretzelhammer/rust-blog
 
 ## WTF
 - A Rust match made in hell: https://fasterthanli.me/articles/a-rust-match-made-in-hell
