@@ -21,6 +21,7 @@ Rust collection FTW
 - A half-hour to learn Rust: https://fasterthanli.me/articles/a-half-hour-to-learn-rust
 - Blue Team Rust: What is "Memory Safety", Really?: https://tiemoko.com/blog/blue-team-rust/
 - pretzelhammer's Rust blog: https://github.com/pretzelhammer/rust-blog
+- Effectively Using Iterators In Rust: https://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html/
 
 ## WTF
 - A Rust match made in hell: https://fasterthanli.me/articles/a-rust-match-made-in-hell
