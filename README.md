@@ -23,6 +23,7 @@ Rust collection FTW
 - pretzelhammer's Rust blog: https://github.com/pretzelhammer/rust-blog
 - Effectively Using Iterators In Rust: https://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html/
 - How to think of unwrap: https://owengage.com/writing/2021-08-30-how-to-think-of-unwrap/
+- Rust Programming: https://iq.opengenus.org/tag/rust/
 
 ## WTF
 - A Rust match made in hell: https://fasterthanli.me/articles/a-rust-match-made-in-hell
