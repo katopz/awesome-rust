@@ -51,6 +51,7 @@ Rust collection FTW
 - Pascal Precht: https://www.youtube.com/c/PascalPrecht
 - Visualizing memory layout of Rust's data types: https://www.youtube.com/watch?v=rDoqT-a6UFg
 - A Firehose of Rust, for busy people who know some C++: https://jacko.io/firehose_of_rust/
+- Rust Tutorial Full Course: https://www.youtube.com/watch?v=ygL_xcavzQ4
 
 ## Editors
 - VSCode `rust-analyzer`: https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer
