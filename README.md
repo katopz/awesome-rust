@@ -26,6 +26,7 @@ Rust collection FTW
 - Rust Programming: https://iq.opengenus.org/tag/rust/
 - Rust: Structuring and handling errors in 2020: https://nick.groenen.me/posts/rust-error-handling/
 - A practical guide to async in Rust: https://blog.logrocket.com/a-practical-guide-to-async-in-rust/
+- Explained: How does async work in Rust?: https://dev.to/gruberb/explained-how-does-async-work-in-rust-46f8
 
 ## WTF
 - A Rust match made in hell: https://fasterthanli.me/articles/a-rust-match-made-in-hell
