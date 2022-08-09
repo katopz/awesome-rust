@@ -25,6 +25,7 @@ Rust collection FTW
 - How to think of unwrap: https://owengage.com/writing/2021-08-30-how-to-think-of-unwrap/
 - Rust Programming: https://iq.opengenus.org/tag/rust/
 - Rust: Structuring and handling errors in 2020: https://nick.groenen.me/posts/rust-error-handling/
+- A practical guide to async in Rust: https://blog.logrocket.com/a-practical-guide-to-async-in-rust/
 
 ## WTF
 - A Rust match made in hell: https://fasterthanli.me/articles/a-rust-match-made-in-hell
