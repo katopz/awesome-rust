@@ -122,10 +122,14 @@ Rust collection FTW
 ## WebAssembly
 - Rust 🦀 and WebAssembly 🕸: https://rustwasm.github.io/docs/book/introduction.html
 
-## Tools
+## Playground
 - Rust Playground: https://play.rust-lang.org/
+
+## Tools
 - fleet: https://fleet.rs/
   > fleet makes your rust builds up to 5x faster.
+- cargo-pgo: https://github.com/Kobzol/cargo-pgo
+  > Cargo subcommand that makes it easier to use PGO and BOLT to optimize Rust binaries.
 
 ## Awesome
 - WebAssembly: https://github.com/katopz/awesome-wasm
