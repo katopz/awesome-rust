@@ -99,6 +99,7 @@ Rust collection FTW
 - Building a crawler in Rust: Scraping and Parsing HTML: https://kerkour.com/rust-crawler-scraping-and-parsing-html
 
 ## Books
+- From JavaScript to Rust ebook: https://github.com/wasmflow/node-to-rust
 - Rust Cookbook: https://rust-lang-nursery.github.io/rust-cookbook/intro.html
   > This Rust Cookbook is a collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
 - Zero To Production In Rust: https://www.zero2prod.com/
