@@ -115,6 +115,7 @@ Rust collection FTW
   > Rust-examples is a repository to gather example codes from tutorial and other documentations of Rust into files, ready to compile.
 - Practice Rust: https://github.com/sunface/rust-by-practice
   > Practice Rust with challenging examples, exercises and projects.
+- Jetbrains rustlings : https://github.com/jetbrains-academy/rustlings-course
 
 ## Algorithms
 - The Algorithms - Rust: https://github.com/TheAlgorithms/Rust
