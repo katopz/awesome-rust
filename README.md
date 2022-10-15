@@ -7,6 +7,7 @@ Rust collection FTW
 - ⭐️ Rust by Example: https://doc.rust-lang.org/rust-by-example/
   > Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries.
 - The Rust Reference: https://doc.rust-lang.org/reference/introduction.html
+- A Gentle Introduction To Rust: https://stevedonovan.github.io/rust-gentle-intro/readme.html
 
 ## Good read
 - https://fasterthanli.me/tags/rust
