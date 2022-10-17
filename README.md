@@ -103,13 +103,16 @@ Rust collection FTW
 - Building a crawler in Rust: Scraping and Parsing HTML: https://kerkour.com/rust-crawler-scraping-and-parsing-html
 
 ## Books
-- From JavaScript to Rust ebook: https://github.com/wasmflow/node-to-rust
-- Rust Cookbook: https://rust-lang-nursery.github.io/rust-cookbook/intro.html
+- [x] ⭐️ From JavaScript to Rust ebook: https://github.com/wasmflow/node-to-rust
+  > Must read for JS dev to RS, cover baasic things.
+- [ ] Rust Cookbook: https://rust-lang-nursery.github.io/rust-cookbook/intro.html
   > This Rust Cookbook is a collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
-- Zero To Production In Rust: https://www.zero2prod.com/
+- [ ] Zero To Production In Rust: https://www.zero2prod.com/
   > Zero To Production is the ideal starting point for your journey as a Rust backend developer. You will learn by doing: you will build a fully functional email newsletter API, starting from scratch.
-- Black Hat Rust: https://kerkour.com/black-hat-rust
+- [x] Black Hat Rust: https://kerkour.com/black-hat-rust
   > While the Rust Book does an excellent job teaching What is Rust, a book about Why and How to Rust was missing.
+- [x] ⭐️ Programming Rust, 2nd Edition: https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/
+  > Show how Rust work in memory for in deep understanding.
 
 ## Exercises
 - Rust exercises: https://github.com/rust-lang/rustlings
