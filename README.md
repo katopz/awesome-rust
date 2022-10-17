@@ -1,5 +1,5 @@
 # awesome-rust
-Rust collection FTW
+My learning Rust collection.
 
 ## Docs
 - The Rust Programming Language: https://doc.rust-lang.org/stable/book/
@@ -8,6 +8,7 @@ Rust collection FTW
   > Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries.
 - The Rust Reference: https://doc.rust-lang.org/reference/introduction.html
 - A Gentle Introduction To Rust: https://stevedonovan.github.io/rust-gentle-intro/readme.html
+- Rust Design Patterns: https://rust-unofficial.github.io/patterns/
 
 ## Good read
 - https://fasterthanli.me/tags/rust
