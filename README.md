@@ -61,6 +61,7 @@ My learning Rust collection.
 - A Firehose of Rust, for busy people who know some C++: https://jacko.io/firehose_of_rust/
 - Rust Tutorial Full Course: https://www.youtube.com/watch?v=ygL_xcavzQ4
 - Rust Tutorial Series: https://github.com/code-of-the-future/Rust-Programming-Crash-Course
+- Rust Course for Beginners: https://www.youtube.com/playlist?list=PLcVYa6NNTe2PaUV1eMH9Di8WpqdhOTTIw
 
 ## Editors
 - VSCode `rust-analyzer`: https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer
