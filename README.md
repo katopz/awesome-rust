@@ -148,3 +148,4 @@ My learning Rust collection.
 - Solana: https://github.com/avareum/awesome-solana
 - Yew: https://github.com/jetli/awesome-yew
 - Rust (Learning): https://github.com/ctjhoa/rust-learning
+- Huge list: https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust
