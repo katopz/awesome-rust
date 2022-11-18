@@ -90,6 +90,7 @@ My learning Rust collection.
 - `Fastly Compute@Edge`: https://docs.fastly.com/products/compute-at-edge
 - `Google CloudRun`: https://github.com/katopz/hello-rust-cloudrun
 - `Github Actions`: https://ectobit.com/blog/speed-up-github-actions-rust-pipelines/
+- `Fast Rust Builds`: https://matklad.github.io/2021/09/04/fast-rust-builds.html
 
 ## Frontend
 - Yew Stack: https://yew.rs/
