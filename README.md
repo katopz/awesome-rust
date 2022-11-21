@@ -76,6 +76,8 @@ My learning Rust collection.
   > `cargo watch -x run`: Watch for code change and run any command
 - `cargo install cargo-modules`: https://github.com/regexident/cargo-modules
   > `cargo modules generate tree`: A cargo plugin for showing an overview of a crate's modules.
+- `hot-lib-reloader`: https://robert.kra.hn/posts/hot-reloading-rust/
+  > hot-lib-reloader allows to change Rust code on the fly without restarts.
 
 ## Test
 - `cargo install cargo-nextest`: https://nexte.st/
