@@ -46,6 +46,7 @@ My learning Rust collection.
 - Rust 101: https://www.ralfj.de/projects/rust-101/
 - Take your first steps with Rust: https://learn.microsoft.com/en-us/training/paths/rust-first-steps/
 - Source code for the book Rust in Action: https://github.com/rust-in-action/code
+- Comprehensive Rust: https://google.github.io/comprehensive-rust
 
 ## Randoms
 - Christopher Biscardi: https://www.christopherbiscardi.com/rust
