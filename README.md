@@ -10,6 +10,22 @@ My learning Rust collection.
 - A Gentle Introduction To Rust: https://stevedonovan.github.io/rust-gentle-intro/readme.html
 - Rust Design Patterns: https://rust-unofficial.github.io/patterns/
 
+## Books
+- [x] ⭐️ From JavaScript to Rust ebook: https://github.com/wasmflow/node-to-rust
+  > Must read for JS dev to RS, cover baasic things.
+- [x] Rust Cookbook: https://rust-lang-nursery.github.io/rust-cookbook/intro.html
+  > This Rust Cookbook is a collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
+- [ ] Zero To Production In Rust: https://www.zero2prod.com/
+  > Zero To Production is the ideal starting point for your journey as a Rust backend developer. You will learn by doing: you will build a fully functional email newsletter API, starting from scratch.
+- [x] Black Hat Rust: https://kerkour.com/black-hat-rust
+  > While the Rust Book does an excellent job teaching What is Rust, a book about Why and How to Rust was missing.
+- [x] ⭐️ Programming Rust, 2nd Edition: https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/
+  > Show how Rust work in memory for in deep understanding.
+- [ ] Rust for Rustaceans: https://nostarch.com/rust-rustaceans
+  > Less code more in-detail explainations.
+- [ ] Rust Atomics and Locks: https://marabos.nl/atomics
+  > Low-Level Concurrency in Practice.
+
 ## Good read
 - https://fasterthanli.me/tags/rust
 - https://github.com/lpxxn/rust-design-pattern
@@ -31,8 +47,6 @@ My learning Rust collection.
 - Explained: How does async work in Rust?: https://dev.to/gruberb/explained-how-does-async-work-in-rust-46f8
 - ⭐️ Beginner's guide to Error Handling in Rust: https://www.sheshbabu.com/posts/rust-error-handling/
 - ⭐️ How not to learn Rust: https://dystroy.org/blog/how-not-to-learn-rust/
-
-## WTF
 - A Rust match made in hell: https://fasterthanli.me/articles/a-rust-match-made-in-hell
 - The curse of strong typing: https://fasterthanli.me/articles/the-curse-of-strong-typing
 
@@ -47,6 +61,7 @@ My learning Rust collection.
 - Take your first steps with Rust: https://learn.microsoft.com/en-us/training/paths/rust-first-steps/
 - Source code for the book Rust in Action: https://github.com/rust-in-action/code
 - Comprehensive Rust: https://google.github.io/comprehensive-rust
+- Rust 101: an open-source university course: https://github.com/tweedegolf/101-rs
 
 ## Randoms
 - Christopher Biscardi: https://www.christopherbiscardi.com/rust
@@ -113,18 +128,6 @@ My learning Rust collection.
 
 ## Projects
 - Building a crawler in Rust: Scraping and Parsing HTML: https://kerkour.com/rust-crawler-scraping-and-parsing-html
-
-## Books
-- [x] ⭐️ From JavaScript to Rust ebook: https://github.com/wasmflow/node-to-rust
-  > Must read for JS dev to RS, cover baasic things.
-- [x] Rust Cookbook: https://rust-lang-nursery.github.io/rust-cookbook/intro.html
-  > This Rust Cookbook is a collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
-- [ ] Zero To Production In Rust: https://www.zero2prod.com/
-  > Zero To Production is the ideal starting point for your journey as a Rust backend developer. You will learn by doing: you will build a fully functional email newsletter API, starting from scratch.
-- [x] Black Hat Rust: https://kerkour.com/black-hat-rust
-  > While the Rust Book does an excellent job teaching What is Rust, a book about Why and How to Rust was missing.
-- [x] ⭐️ Programming Rust, 2nd Edition: https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/
-  > Show how Rust work in memory for in deep understanding.
 
 ## Exercises
 - Rust exercises: https://github.com/rust-lang/rustlings
