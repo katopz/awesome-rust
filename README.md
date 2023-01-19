@@ -81,7 +81,8 @@ My learning Rust collection.
 - Rust Tutorial Series: https://github.com/code-of-the-future/Rust-Programming-Crash-Course
 - Rust Course for Beginners: https://www.youtube.com/playlist?list=PLcVYa6NNTe2PaUV1eMH9Di8WpqdhOTTIw
 - into_rust::Ownership: http://intorust.com/tutorial/ownership/
-- PLAY ALL RUST PROGRAMMING TUTORIALS: https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL
+- RUST PROGRAMMING TUTORIALS: https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL
+- Rust talks from Strange Loop: https://www.youtube.com/playlist?list=PLcGKfGEEONaDCrhrJV5yUxRrD8cOOOb-T
 
 ## Editors
 - VSCode `rust-analyzer`: https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer
